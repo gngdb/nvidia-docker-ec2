@@ -1,0 +1,6 @@
+{
+    "ImageId": "ami-8446ff93",
+    "SecurityGroupIds": [ "<your-security-group-id>" ],
+    "InstanceType": "g2.2xlarge",
+    "KeyName": "<your-key-name>"
+}
