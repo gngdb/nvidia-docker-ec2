@@ -1,6 +1,6 @@
 # Installing nvidia-docker on Amazon EC2 
 
-These are a few scripts to take an Amazon EC2 from scratch to running
+These are a few scripts to take an Amazon EC2 instance from scratch to running
 [nvidia-docker][nd], so that you can easily run [any deep learning
 library][kai] (although I have to also provide a modified version of the
 [Tensorflow devel-gpu Dockerfile][tensor], as the standard one is not
