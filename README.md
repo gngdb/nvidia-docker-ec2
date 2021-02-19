@@ -1,3 +1,5 @@
+**Warning**: these are probably completely out of date and unlikely to work.
+
 # Installing nvidia-docker on Amazon EC2 
 
 These are a few scripts to take an Amazon EC2 instance from scratch to running
